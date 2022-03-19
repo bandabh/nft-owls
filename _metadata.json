@@ -1,0 +1,822 @@
+[
+    {
+        "name": "NFT #0",
+        "description": "Really awesome description!",
+        "image": "0.png",
+        "edition": 0,
+        "seller_fee_basis_points": 250,
+        "collection": {
+            "name": "Cool collection",
+            "family": "Cool collection"
+        },
+        "symbol": "",
+        "properties": {
+            "files": [
+                {
+                    "uri": "0.png",
+                    "type": "image/png"
+                }
+            ],
+            "category": "image",
+            "creators": [
+                {
+                    "address": "6R1YMnnjWsj93a438whWkimCimNzAgKRid7QkUfpkCxF",
+                    "share": 100
+                }
+            ]
+        },
+        "attributes": [
+            {
+                "trait_type": "background",
+                "value": "Emina Delic_mascot drawing-05"
+            },
+            {
+                "trait_type": "bird",
+                "value": "Emina Delic_mascot drawing-08"
+            },
+            {
+                "trait_type": "hats",
+                "value": "Emina Delic_mascot drawing_x"
+            }
+        ]
+    },
+    {
+        "name": "NFT #1",
+        "description": "Really awesome description!",
+        "image": "1.png",
+        "edition": 1,
+        "seller_fee_basis_points": 250,
+        "collection": {
+            "name": "Cool collection",
+            "family": "Cool collection"
+        },
+        "symbol": "",
+        "properties": {
+            "files": [
+                {
+                    "uri": "1.png",
+                    "type": "image/png"
+                }
+            ],
+            "category": "image",
+            "creators": [
+                {
+                    "address": "6R1YMnnjWsj93a438whWkimCimNzAgKRid7QkUfpkCxF",
+                    "share": 100
+                }
+            ]
+        },
+        "attributes": [
+            {
+                "trait_type": "background",
+                "value": "Emina Delic_mascot drawing-02"
+            },
+            {
+                "trait_type": "bird",
+                "value": "Emina Delic_mascot drawing-06"
+            },
+            {
+                "trait_type": "hats",
+                "value": "Emina Delic_mascot drawing_25"
+            }
+        ]
+    },
+    {
+        "name": "NFT #2",
+        "description": "Really awesome description!",
+        "image": "2.png",
+        "edition": 2,
+        "seller_fee_basis_points": 250,
+        "collection": {
+            "name": "Cool collection",
+            "family": "Cool collection"
+        },
+        "symbol": "",
+        "properties": {
+            "files": [
+                {
+                    "uri": "2.png",
+                    "type": "image/png"
+                }
+            ],
+            "category": "image",
+            "creators": [
+                {
+                    "address": "6R1YMnnjWsj93a438whWkimCimNzAgKRid7QkUfpkCxF",
+                    "share": 100
+                }
+            ]
+        },
+        "attributes": [
+            {
+                "trait_type": "background",
+                "value": "Emina Delic_mascot drawing-04"
+            },
+            {
+                "trait_type": "bird",
+                "value": "Emina Delic_mascot drawing-06"
+            },
+            {
+                "trait_type": "hats",
+                "value": "Emina Delic_mascot drawing_25"
+            }
+        ]
+    },
+    {
+        "name": "NFT #3",
+        "description": "Really awesome description!",
+        "image": "3.png",
+        "edition": 3,
+        "seller_fee_basis_points": 250,
+        "collection": {
+            "name": "Cool collection",
+            "family": "Cool collection"
+        },
+        "symbol": "",
+        "properties": {
+            "files": [
+                {
+                    "uri": "3.png",
+                    "type": "image/png"
+                }
+            ],
+            "category": "image",
+            "creators": [
+                {
+                    "address": "6R1YMnnjWsj93a438whWkimCimNzAgKRid7QkUfpkCxF",
+                    "share": 100
+                }
+            ]
+        },
+        "attributes": [
+            {
+                "trait_type": "background",
+                "value": "Emina Delic_mascot drawing-02"
+            },
+            {
+                "trait_type": "bird",
+                "value": "Emina Delic_mascot drawing_y"
+            },
+            {
+                "trait_type": "hats",
+                "value": "Emina Delic_mascot drawing_25"
+            }
+        ]
+    },
+    {
+        "name": "NFT #4",
+        "description": "Really awesome description!",
+        "image": "4.png",
+        "edition": 4,
+        "seller_fee_basis_points": 250,
+        "collection": {
+            "name": "Cool collection",
+            "family": "Cool collection"
+        },
+        "symbol": "",
+        "properties": {
+            "files": [
+                {
+                    "uri": "4.png",
+                    "type": "image/png"
+                }
+            ],
+            "category": "image",
+            "creators": [
+                {
+                    "address": "6R1YMnnjWsj93a438whWkimCimNzAgKRid7QkUfpkCxF",
+                    "share": 100
+                }
+            ]
+        },
+        "attributes": [
+            {
+                "trait_type": "background",
+                "value": "Emina Delic_mascot drawing-04"
+            },
+            {
+                "trait_type": "bird",
+                "value": "Emina Delic_mascot drawing-07"
+            },
+            {
+                "trait_type": "hats",
+                "value": "Emina Delic_mascot drawing_25"
+            }
+        ]
+    },
+    {
+        "name": "NFT #5",
+        "description": "Really awesome description!",
+        "image": "5.png",
+        "edition": 5,
+        "seller_fee_basis_points": 250,
+        "collection": {
+            "name": "Cool collection",
+            "family": "Cool collection"
+        },
+        "symbol": "",
+        "properties": {
+            "files": [
+                {
+                    "uri": "5.png",
+                    "type": "image/png"
+                }
+            ],
+            "category": "image",
+            "creators": [
+                {
+                    "address": "6R1YMnnjWsj93a438whWkimCimNzAgKRid7QkUfpkCxF",
+                    "share": 100
+                }
+            ]
+        },
+        "attributes": [
+            {
+                "trait_type": "background",
+                "value": "Emina Delic_mascot drawing-04"
+            },
+            {
+                "trait_type": "bird",
+                "value": "Emina Delic_mascot drawing-01"
+            },
+            {
+                "trait_type": "hats",
+                "value": "Emina Delic_mascot drawing_x"
+            }
+        ]
+    },
+    {
+        "name": "NFT #6",
+        "description": "Really awesome description!",
+        "image": "6.png",
+        "edition": 6,
+        "seller_fee_basis_points": 250,
+        "collection": {
+            "name": "Cool collection",
+            "family": "Cool collection"
+        },
+        "symbol": "",
+        "properties": {
+            "files": [
+                {
+                    "uri": "6.png",
+                    "type": "image/png"
+                }
+            ],
+            "category": "image",
+            "creators": [
+                {
+                    "address": "6R1YMnnjWsj93a438whWkimCimNzAgKRid7QkUfpkCxF",
+                    "share": 100
+                }
+            ]
+        },
+        "attributes": [
+            {
+                "trait_type": "background",
+                "value": "Emina Delic_mascot drawing-02"
+            },
+            {
+                "trait_type": "bird",
+                "value": "Emina Delic_mascot drawing-08"
+            },
+            {
+                "trait_type": "hats",
+                "value": "Emina Delic_mascot drawing_25"
+            }
+        ]
+    },
+    {
+        "name": "NFT #7",
+        "description": "Really awesome description!",
+        "image": "7.png",
+        "edition": 7,
+        "seller_fee_basis_points": 250,
+        "collection": {
+            "name": "Cool collection",
+            "family": "Cool collection"
+        },
+        "symbol": "",
+        "properties": {
+            "files": [
+                {
+                    "uri": "7.png",
+                    "type": "image/png"
+                }
+            ],
+            "category": "image",
+            "creators": [
+                {
+                    "address": "6R1YMnnjWsj93a438whWkimCimNzAgKRid7QkUfpkCxF",
+                    "share": 100
+                }
+            ]
+        },
+        "attributes": [
+            {
+                "trait_type": "background",
+                "value": "Emina Delic_mascot drawing-02"
+            },
+            {
+                "trait_type": "bird",
+                "value": "Emina Delic_mascot drawing-06"
+            },
+            {
+                "trait_type": "hats",
+                "value": "Emina Delic_mascot drawing_x"
+            }
+        ]
+    },
+    {
+        "name": "NFT #8",
+        "description": "Really awesome description!",
+        "image": "8.png",
+        "edition": 8,
+        "seller_fee_basis_points": 250,
+        "collection": {
+            "name": "Cool collection",
+            "family": "Cool collection"
+        },
+        "symbol": "",
+        "properties": {
+            "files": [
+                {
+                    "uri": "8.png",
+                    "type": "image/png"
+                }
+            ],
+            "category": "image",
+            "creators": [
+                {
+                    "address": "6R1YMnnjWsj93a438whWkimCimNzAgKRid7QkUfpkCxF",
+                    "share": 100
+                }
+            ]
+        },
+        "attributes": [
+            {
+                "trait_type": "background",
+                "value": "Emina Delic_mascot drawing-02"
+            },
+            {
+                "trait_type": "bird",
+                "value": "Emina Delic_mascot drawing_y"
+            },
+            {
+                "trait_type": "hats",
+                "value": "Emina Delic_mascot drawing_x"
+            }
+        ]
+    },
+    {
+        "name": "NFT #9",
+        "description": "Really awesome description!",
+        "image": "9.png",
+        "edition": 9,
+        "seller_fee_basis_points": 250,
+        "collection": {
+            "name": "Cool collection",
+            "family": "Cool collection"
+        },
+        "symbol": "",
+        "properties": {
+            "files": [
+                {
+                    "uri": "9.png",
+                    "type": "image/png"
+                }
+            ],
+            "category": "image",
+            "creators": [
+                {
+                    "address": "6R1YMnnjWsj93a438whWkimCimNzAgKRid7QkUfpkCxF",
+                    "share": 100
+                }
+            ]
+        },
+        "attributes": [
+            {
+                "trait_type": "background",
+                "value": "Emina Delic_mascot drawing-02"
+            },
+            {
+                "trait_type": "bird",
+                "value": "Emina Delic_mascot drawing_z"
+            },
+            {
+                "trait_type": "hats",
+                "value": "Emina Delic_mascot drawing_25"
+            }
+        ]
+    },
+    {
+        "name": "NFT #10",
+        "description": "Really awesome description!",
+        "image": "10.png",
+        "edition": 10,
+        "seller_fee_basis_points": 250,
+        "collection": {
+            "name": "Cool collection",
+            "family": "Cool collection"
+        },
+        "symbol": "",
+        "properties": {
+            "files": [
+                {
+                    "uri": "10.png",
+                    "type": "image/png"
+                }
+            ],
+            "category": "image",
+            "creators": [
+                {
+                    "address": "6R1YMnnjWsj93a438whWkimCimNzAgKRid7QkUfpkCxF",
+                    "share": 100
+                }
+            ]
+        },
+        "attributes": [
+            {
+                "trait_type": "background",
+                "value": "Emina Delic_mascot drawing-02"
+            },
+            {
+                "trait_type": "bird",
+                "value": "Emina Delic_mascot drawing-08"
+            },
+            {
+                "trait_type": "hats",
+                "value": "Emina Delic_mascot drawing_x"
+            }
+        ]
+    },
+    {
+        "name": "NFT #11",
+        "description": "Really awesome description!",
+        "image": "11.png",
+        "edition": 11,
+        "seller_fee_basis_points": 250,
+        "collection": {
+            "name": "Cool collection",
+            "family": "Cool collection"
+        },
+        "symbol": "",
+        "properties": {
+            "files": [
+                {
+                    "uri": "11.png",
+                    "type": "image/png"
+                }
+            ],
+            "category": "image",
+            "creators": [
+                {
+                    "address": "6R1YMnnjWsj93a438whWkimCimNzAgKRid7QkUfpkCxF",
+                    "share": 100
+                }
+            ]
+        },
+        "attributes": [
+            {
+                "trait_type": "background",
+                "value": "Emina Delic_mascot drawing-02"
+            },
+            {
+                "trait_type": "bird",
+                "value": "Emina Delic_mascot drawing-01"
+            },
+            {
+                "trait_type": "hats",
+                "value": "Emina Delic_mascot drawing_x"
+            }
+        ]
+    },
+    {
+        "name": "NFT #12",
+        "description": "Really awesome description!",
+        "image": "12.png",
+        "edition": 12,
+        "seller_fee_basis_points": 250,
+        "collection": {
+            "name": "Cool collection",
+            "family": "Cool collection"
+        },
+        "symbol": "",
+        "properties": {
+            "files": [
+                {
+                    "uri": "12.png",
+                    "type": "image/png"
+                }
+            ],
+            "category": "image",
+            "creators": [
+                {
+                    "address": "6R1YMnnjWsj93a438whWkimCimNzAgKRid7QkUfpkCxF",
+                    "share": 100
+                }
+            ]
+        },
+        "attributes": [
+            {
+                "trait_type": "background",
+                "value": "Emina Delic_mascot drawing-03"
+            },
+            {
+                "trait_type": "bird",
+                "value": "Emina Delic_mascot drawing-08"
+            },
+            {
+                "trait_type": "hats",
+                "value": "Emina Delic_mascot drawing_x"
+            }
+        ]
+    },
+    {
+        "name": "NFT #13",
+        "description": "Really awesome description!",
+        "image": "13.png",
+        "edition": 13,
+        "seller_fee_basis_points": 250,
+        "collection": {
+            "name": "Cool collection",
+            "family": "Cool collection"
+        },
+        "symbol": "",
+        "properties": {
+            "files": [
+                {
+                    "uri": "13.png",
+                    "type": "image/png"
+                }
+            ],
+            "category": "image",
+            "creators": [
+                {
+                    "address": "6R1YMnnjWsj93a438whWkimCimNzAgKRid7QkUfpkCxF",
+                    "share": 100
+                }
+            ]
+        },
+        "attributes": [
+            {
+                "trait_type": "background",
+                "value": "Emina Delic_mascot drawing-04"
+            },
+            {
+                "trait_type": "bird",
+                "value": "Emina Delic_mascot drawing-06"
+            },
+            {
+                "trait_type": "hats",
+                "value": "Emina Delic_mascot drawing_x"
+            }
+        ]
+    },
+    {
+        "name": "NFT #14",
+        "description": "Really awesome description!",
+        "image": "14.png",
+        "edition": 14,
+        "seller_fee_basis_points": 250,
+        "collection": {
+            "name": "Cool collection",
+            "family": "Cool collection"
+        },
+        "symbol": "",
+        "properties": {
+            "files": [
+                {
+                    "uri": "14.png",
+                    "type": "image/png"
+                }
+            ],
+            "category": "image",
+            "creators": [
+                {
+                    "address": "6R1YMnnjWsj93a438whWkimCimNzAgKRid7QkUfpkCxF",
+                    "share": 100
+                }
+            ]
+        },
+        "attributes": [
+            {
+                "trait_type": "background",
+                "value": "Emina Delic_mascot drawing-03"
+            },
+            {
+                "trait_type": "bird",
+                "value": "Emina Delic_mascot drawing_y"
+            },
+            {
+                "trait_type": "hats",
+                "value": "Emina Delic_mascot drawing_x"
+            }
+        ]
+    },
+    {
+        "name": "NFT #15",
+        "description": "Really awesome description!",
+        "image": "15.png",
+        "edition": 15,
+        "seller_fee_basis_points": 250,
+        "collection": {
+            "name": "Cool collection",
+            "family": "Cool collection"
+        },
+        "symbol": "",
+        "properties": {
+            "files": [
+                {
+                    "uri": "15.png",
+                    "type": "image/png"
+                }
+            ],
+            "category": "image",
+            "creators": [
+                {
+                    "address": "6R1YMnnjWsj93a438whWkimCimNzAgKRid7QkUfpkCxF",
+                    "share": 100
+                }
+            ]
+        },
+        "attributes": [
+            {
+                "trait_type": "background",
+                "value": "Emina Delic_mascot drawing-05"
+            },
+            {
+                "trait_type": "bird",
+                "value": "Emina Delic_mascot drawing_y"
+            },
+            {
+                "trait_type": "hats",
+                "value": "Emina Delic_mascot drawing_25"
+            }
+        ]
+    },
+    {
+        "name": "NFT #16",
+        "description": "Really awesome description!",
+        "image": "16.png",
+        "edition": 16,
+        "seller_fee_basis_points": 250,
+        "collection": {
+            "name": "Cool collection",
+            "family": "Cool collection"
+        },
+        "symbol": "",
+        "properties": {
+            "files": [
+                {
+                    "uri": "16.png",
+                    "type": "image/png"
+                }
+            ],
+            "category": "image",
+            "creators": [
+                {
+                    "address": "6R1YMnnjWsj93a438whWkimCimNzAgKRid7QkUfpkCxF",
+                    "share": 100
+                }
+            ]
+        },
+        "attributes": [
+            {
+                "trait_type": "background",
+                "value": "Emina Delic_mascot drawing-03"
+            },
+            {
+                "trait_type": "bird",
+                "value": "Emina Delic_mascot drawing-08"
+            },
+            {
+                "trait_type": "hats",
+                "value": "Emina Delic_mascot drawing_25"
+            }
+        ]
+    },
+    {
+        "name": "NFT #17",
+        "description": "Really awesome description!",
+        "image": "17.png",
+        "edition": 17,
+        "seller_fee_basis_points": 250,
+        "collection": {
+            "name": "Cool collection",
+            "family": "Cool collection"
+        },
+        "symbol": "",
+        "properties": {
+            "files": [
+                {
+                    "uri": "17.png",
+                    "type": "image/png"
+                }
+            ],
+            "category": "image",
+            "creators": [
+                {
+                    "address": "6R1YMnnjWsj93a438whWkimCimNzAgKRid7QkUfpkCxF",
+                    "share": 100
+                }
+            ]
+        },
+        "attributes": [
+            {
+                "trait_type": "background",
+                "value": "Emina Delic_mascot drawing-05"
+            },
+            {
+                "trait_type": "bird",
+                "value": "Emina Delic_mascot drawing_y"
+            },
+            {
+                "trait_type": "hats",
+                "value": "Emina Delic_mascot drawing_x"
+            }
+        ]
+    },
+    {
+        "name": "NFT #18",
+        "description": "Really awesome description!",
+        "image": "18.png",
+        "edition": 18,
+        "seller_fee_basis_points": 250,
+        "collection": {
+            "name": "Cool collection",
+            "family": "Cool collection"
+        },
+        "symbol": "",
+        "properties": {
+            "files": [
+                {
+                    "uri": "18.png",
+                    "type": "image/png"
+                }
+            ],
+            "category": "image",
+            "creators": [
+                {
+                    "address": "6R1YMnnjWsj93a438whWkimCimNzAgKRid7QkUfpkCxF",
+                    "share": 100
+                }
+            ]
+        },
+        "attributes": [
+            {
+                "trait_type": "background",
+                "value": "Emina Delic_mascot drawing-03"
+            },
+            {
+                "trait_type": "bird",
+                "value": "Emina Delic_mascot drawing-01"
+            },
+            {
+                "trait_type": "hats",
+                "value": "Emina Delic_mascot drawing_x"
+            }
+        ]
+    },
+    {
+        "name": "NFT #19",
+        "description": "Really awesome description!",
+        "image": "19.png",
+        "edition": 19,
+        "seller_fee_basis_points": 250,
+        "collection": {
+            "name": "Cool collection",
+            "family": "Cool collection"
+        },
+        "symbol": "",
+        "properties": {
+            "files": [
+                {
+                    "uri": "19.png",
+                    "type": "image/png"
+                }
+            ],
+            "category": "image",
+            "creators": [
+                {
+                    "address": "6R1YMnnjWsj93a438whWkimCimNzAgKRid7QkUfpkCxF",
+                    "share": 100
+                }
+            ]
+        },
+        "attributes": [
+            {
+                "trait_type": "background",
+                "value": "Emina Delic_mascot drawing-03"
+            },
+            {
+                "trait_type": "bird",
+                "value": "Emina Delic_mascot drawing-01"
+            },
+            {
+                "trait_type": "hats",
+                "value": "Emina Delic_mascot drawing_25"
+            }
+        ]
+    }
+]

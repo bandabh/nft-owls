@@ -1,0 +1,41 @@
+{
+    "name": "NFT #11",
+    "description": "Really awesome description!",
+    "image": "11.png",
+    "edition": 11,
+    "seller_fee_basis_points": 250,
+    "collection": {
+        "name": "Cool collection",
+        "family": "Cool collection"
+    },
+    "symbol": "",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://zealous-babbage-3ce7fc.netlify.app/11.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "6R1YMnnjWsj93a438whWkimCimNzAgKRid7QkUfpkCxF",
+                "share": 100
+            }
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Emina Delic_mascot drawing-02"
+        },
+        {
+            "trait_type": "bird",
+            "value": "Emina Delic_mascot drawing-01"
+        },
+        {
+            "trait_type": "hats",
+            "value": "Emina Delic_mascot drawing_x"
+        }
+    ]
+}
