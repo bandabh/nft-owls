@@ -1,7 +1,7 @@
 {
     "name": "NFT #19",
     "description": "Really awesome description!",
-    "image": "19.png",
+    "image": "https://zealous-babbage-3ce7fc.netlify.app/19.png",
     "edition": 19,
     "seller_fee_basis_points": 250,
     "collection": {
